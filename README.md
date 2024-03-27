@@ -6,8 +6,6 @@ For this particular assignment, the data of different types of wine sales in the
 
 Data set for the Problem: Sparkling.csv and Rose.csv
 
-Please do perform the following questions on each of these two data sets separately.
-
 Read the data as an appropriate Time Series data and plot the data.
 Perform appropriate Exploratory Data Analysis to understand the data and also perform decomposition.
 Split the data into training and test. The test data should start in 1991.
